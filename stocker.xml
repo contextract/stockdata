@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>주식쟁이</title>
+        <title>Stocker</title>
         <item>
-            <title>0.5.3</title>
-            <description>주식 상세, 메거진 성능 개선</description>
+            <title>0.5.2</title>
+            <description>Description</description>
             <pubDate>Sat, 17 Dec 2020 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.contextractor.stocker" sparkle:version="0.5.3" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.contextractor.stocker" sparkle:version="0.5.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
