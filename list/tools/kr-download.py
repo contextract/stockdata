@@ -45,7 +45,7 @@ def get_kr_sub(driver, url, dst_file):
     print(url)
     driver.get(url)
     time.sleep(interval)
-    remove_popup(driver)
+    #remove_popup(driver)
     time.sleep(interval)
     button = driver.find_element_by_xpath(
         '/html/body/div[2]/section[2]/section/section/div/div/form/div[2]/div/p[2]/button[2]')
