@@ -285,7 +285,6 @@
 000757,호물전기
 000758,중국비철금속
 000759,무한중백
-000760,사태이동력
 000761,본강판재
 000762,티베트 광물개발
 000766,통화금마제약
@@ -455,6 +454,18 @@
 001203,Inner Mongolia Dazhong Mining Co Ltd
 001205,Nanjing Sheng Hang Shipping Ord Shs (Proposed)
 001206,Tianjin Yiyi Hygiene Products Co Ltd
+001207,Shandong Link Science and Technology Co Ltd
+001208,Hunan Valin Wire & Cable Co Ltd
+001209,Guangdong Hongxing Industrial Co Ltd
+001210,Beijing Kingfore HV & Energy Conservation Technology Co Ltd
+001211,Suncha Technology Co Ltd
+001212,Sinostone Guangdong Co Ltd
+001213,China Railway Special Cargo Logistics Co Ltd
+001215,Zhengzhou Qianweiyangchu Food Co Ltd
+001216,Hunan Hualian China Industry Co Ltd
+001217,Anhui Huaertai Chemical Co Ltd
+001218,Hunan Resun Co Ltd
+001219,Qingdao Foods Co Ltd
 001696,중경종신동력
 001872,CM PORT GROUP
 001896,하남예능
@@ -813,7 +824,6 @@
 002356,혁미그룹
 002357,부림운수
 002358,삼원전기
-002359,북신그룹
 002360,산서 동덕 화학
 002361,안휘 신검 신소재
 002362,한왕 기술
@@ -1157,7 +1167,6 @@
 002707,중신관광
 002708,광양베어링
 002709,천사첨단신소재
-002711,구포지망
 002712,사미미디어
 002713,동역일성홈데코
 002714,목원식품
@@ -1507,7 +1516,6 @@
 200761,본강판재
 200771,항주증기터빈
 200869,연태장유포도주
-200986,불산화신포장
 200992,산동성중로원양어업
 201872,CM PORT GROUP B
 300001,특예덕전기
@@ -1863,7 +1871,6 @@
 300358,초천테크놀로지
 300359,전통교육
 300360,거화과학기술
-300362,천상환경
 300363,박등제약
 300364,중문재디지털출판
 300365,항화테크놀로지
@@ -2262,6 +2269,7 @@
 300771,ZHILAI TECH
 300772,WINDEY
 300773,LAKALA
+300774,BGT Group Co Ltd
 300775,TRIANGLE DEFENSE
 300776,DR LASER
 300777,SINOFIBERS
@@ -2298,6 +2306,7 @@
 300811,POCO
 300812,ETMADE
 300813,TAILIN BIOTECH
+300814,Shenzhen Jove Enterprise Ltd
 300815,EIT
 300816,ACT BLUE
 300817,SF HOLDING
@@ -2326,6 +2335,7 @@
 300841,CHENGDU KANGHUA BIOLOGICAL PRODUCTS
 300842,Wuxin DK Elctronic Materials
 300843,SHENGLAN TECHNOLOGY
+300844,S.P.I Landscape Design Co Ltd
 300845,ZHENGZHOU J&T HI-T
 300846,CAPITALONLINE DATA
 300847,HG TECHNOLOGIES
@@ -2335,6 +2345,7 @@
 300851,BEIJING JIAODA SIGNAL TECHNOLOGY
 300852,SIHUI FUJI ELECTRONICS TECHNOLOGY
 300853,HANGZHOU SHENHAO TECHNOLOGY
+300854,GAD Environmental Technology Co Ltd
 300855,JIANGSU TOLAND ALLOY
 300856,NANJING COSMOS CHEMICAL
 300857,SHARETRONIC DATA TECHNOLOGY
@@ -2437,6 +2448,7 @@
 300961,Hynar Water Group Co Ltd
 300962,Zhongjin Irradiation Incorporated Co
 300963,Shanghai Zhongzhou Spcl Alloy Mtrl CoLtd
+300964,Jiangsu Allfavor Intelligent Circuits Technology Co Ltd
 300965,Beijing Hengyu Datacom Aviation Equipment Ord Shs
 300966,Hubei Goto Biopharm Co Ltd
 300967,Ningxia Xiaoming Agriculture & Animal Husbandry Co. Ltd.
@@ -2455,6 +2467,7 @@
 300981,Zhonghong Pulin Medical Products Co Ltd
 300982,Suwen Electric Energy Technology Co Ltd
 300983,Shanghai Urban Architecture Desgn Co Ltd
+300984,Zhejiang JW Precision Machinery Co Ltd
 300985,Changchun Zhiyuan New Enrgy Eqpmt Co Ltd
 300986,Jiangxi GETO New Materials Corp Ltd
 300987,Sichuan Newsnet Media Group Co Ltd
@@ -2464,16 +2477,92 @@
 300991,Shenzhen Chuangyitong Technology Co Ltd
 300992,Zhejiang Taifu Pump Co Ltd
 300993,Shandong Yuma Sun-Shadng Tchnlgy Crp Ltd
+300994,Joy Kie Corp Ltd
 300995,Guangdong Kitech New Material Holding Co. Ltd.
-300996,Pansoft Co Ltd
-300997,HUANLEJIA FOOD GRO
+300996,Pansoft Co Ltd/China
+300997,HUANLEJIA Food Group Co Ltd
 300998,Ningbo Fangzheng Automobile Mould Co Ltd
 300999,ARAWANA
 301000,Shanghai Hajime Advncd Mtrl Tech Co Ltd
 301001,Shanghai Kaytune Industrial Co Ltd
 301002,Shenzhen Sosen Electronics Co Ltd
 301003,Jiangsu Boiln Plastics Co Ltd
+301004,Zhejiang Cayi Vacuum Container Co Ltd
 301005,ESSENCE FASTENING
 301006,Meter Instruments Co. Ltd. A Stock Price
 301007,Dalian Demaishi Precision Tech Co Ltd
 301008,Zhejiang Hongchang Electrical Tch Co Ltd
+301009,Hangzhou Coco Healthcare Products Co Ltd
+301010,Jiangsu Jingxue Insulation Technology Co Ltd
+301011,Guangzhou Wahlap Technology Corp Ltd
+301012,Jiangsu Yangdian Science & Technology Co Ltd
+301013,Shenzhen Lihexing Co Ltd
+301015,Qingdao Baheal Pharmaceutical Co Ltd
+301016,Nanjing Railway New Technology Co Ltd
+301017,ShuYu Civilian Pharmacy Corp Ltd
+301018,Guangdong Shenling Environmental Systems Co Ltd
+301019,Ningbo Color Master Batch Co Ltd
+301020,Yantai Ishikawa Sealing Technology Co Ltd
+301021,Inno Laser Technology Co Ltd
+301022,Qingdao Hi-Tech Moulds & Plastics Technology Co Ltd
+301023,Jiangnan Yifan Motor Co Ltd
+301024,Shanghai Hyp-Arch Architectural Design Consultant Co
+301025,Dook Media Group Ltd
+301026,Hootech Inc
+301027,Hualan Group Co Ltd
+301028,Xiamen East Asia Machinery Industrial Co Ltd
+301029,Dongguan Yiheda Automation Co Ltd
+301030,Suzhou Shijing Environmental Technology Co Ltd
+301031,Xi'an Sinofuse Electric Co Ltd
+301032,Zhejiang Xinchai Co Ltd
+301033,Medprin Regenerative Medical Technologies Co Ltd
+301035,Shandong Weifang Rainbow Chemical Co Ltd
+301036,Sunlour Pigment Co Ltd
+301037,Shanghai Baolijia Chemical Co Ltd
+301038,Shenzhen Water Planning & Design Institute Co Ltd
+301039,CIMC Vehicles Group Co Ltd
+301040,Zhangjiagang Zhonghuan Hailu High-end Equipment Co Ltd
+301041,Shenzhen King Brother Electronics Technology Co Ltd
+301042,Zhuhai Raysharp Technology Co Ltd
+301043,Guangdong Nedfon Air System Co Ltd
+301045,Talant Optronics Suzhou Co Ltd
+301046,Shanghai Nenghui Technology Co Ltd
+301047,Sino Biological Inc
+301048,Gemac Engineering Machinery Co Ltd
+301049,Anhui Chaoyue Environmental Protection Technology Co Ltd
+301050,Chengdu RML Technology Co Ltd
+301051,Shenzhen Xinhao Photoelectricity Technology Co Ltd
+301052,GUOMAI Culture & Media Co Ltd
+301053,Yoantion Industrial Inc Ltd
+301055,Zhang Xiaoquan Inc
+301056,Sicher Elevator Co Ltd
+301057,Zhejiang Huilong New Material Co Ltd
+301058,COFCO Engineering & Technology Co Ltd
+301059,Jinsanjiang Zhaoqing Silicon Material Co Ltd
+301060,Shanghai Labway Clinical Laboratory Co Ltd
+301061,HHC Changzhou Corp
+301062,Shanghai Ailu Package Co Ltd
+301063,Zhangjiagang Haiguo New Energy Equipment Manufacturing Co Ltd
+301065,Zhejiang Benli Technology Co Ltd
+301066,Hangzhou Wensli Silk Culture Co Ltd
+301067,Fullink Technology Co Ltd
+301068,Hangzhou Dadi Haiyang Environmental Protection Co Ltd
+301069,Shandong Kaisheng New Materials Co Ltd
+301070,Kale Environment Technology Shanghai Co Ltd
+301071,Henan Liliang Diamond Co Ltd
+301072,Zhongjie Jiangsu Technology Co Ltd
+301073,Zhejiang SSAW Boutique Hotels Co Ltd
+301075,Tibet Duorui Pharmaceutical Co Ltd
+301076,Sino-High China Co Ltd
+301077,Hangzhou Chinastars Reflective Material Co Ltd
+301078,Kidswant Children Products Co Ltd
+301079,Shaoyang Victor Hydraulics Co Ltd
+301080,Acrobiosystems Co Ltd
+301081,Yanpai Filtration Technology Co Ltd
+301082,Jiu Sheng Electric Co Ltd
+301083,Bisen Smart Access Co Ltd
+301085,Beijing Asiacom Information Technology Co Ltd
+301086,Shenzhen Hongfuhan Technology Co Ltd
+301087,Cofoe Medical Technology Co Ltd
+301089,Xinxiang Tuoxin Pharmaceutical Co Ltd
+301090,China Resources Chemical Innovative Materials Co Ltd
