@@ -53,4 +53,4 @@ python3 $DIR/kr.py $TMP/items.csv $OLD/items.csv > $OUT/items.csv
 $DIR/us.sh $OUT
 
 # reuter
-python $DIR/reuter.py > $OUT/reuter.csv
+python3 $DIR/reuter.py > $OUT/reuter.csv
