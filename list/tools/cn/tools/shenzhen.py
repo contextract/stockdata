@@ -6,6 +6,12 @@ with open('shenzhen-src.csv', newline='', encoding='utf-8-sig') as f:
     reader = csv.reader(f)
     for row in reader:
         code = row[0].strip()
-        r = requests.get("https://asp.edaily.co.kr/shb/shinhaninvest//module/json_check.php?exid=17&symbol=" + code, verify=False)
+        engName = row[1].strip()
+        url = 'https://polling.finance.naver.com/api/realtime/worldstock/stock/%s.SZ' % (code)
+        # print(url)
+        r = requests.get(url, verify=False)
         data = json.loads(r.content)
-        print("{0},{1}".format(code, data['hname']))
+        try:
+            print("{0},{1}".format(code, data['datas'][0]['stockName']))
+        except IndexError:
+            print("{0},{1}".format(code, engName))
